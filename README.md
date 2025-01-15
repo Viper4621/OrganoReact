@@ -1,3 +1,11 @@
+# Utilidade
+para executar projeto necessario node.js / react / webvitals
+Instalar ambos e executar creat-react-app oragano
+Usar cd para ir a pasta criada pelo react e usar npm start
+
+Projeto basico em react com utilização de componenetes com props para receber funções e realizar ciclo do react para manipulação do DOM
+criando cards de acordo com informações do formulario e atribuindo as equipes escolhidas 
+ 
  # Banner do projeto
 ![print 1](https://github.com/user-attachments/assets/78c0411e-936b-45b3-b883-48fd46247cd2)
 
